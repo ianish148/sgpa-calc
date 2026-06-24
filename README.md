@@ -1,4 +1,4 @@
-# SGPA & CGPA Optimizer
+# SemIQ
 
 **Live demo → [sg-cg-calc.vercel.app](https://sg-cg-calc.vercel.app/)**
 

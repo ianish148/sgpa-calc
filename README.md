@@ -1,6 +1,6 @@
 # SemGPA
 
-**Live demo → [semgpa.vercel.app](semgpa.vercel.app/)**
+**Live demo → [semgpa.vercel.app](https://semgpa.vercel.app/)**
 
 A clean, mobile-friendly web tool to plan your semester grades, track CGPA, and calculate the average SGPA you need across remaining semesters to hit your target CGPA.
 
